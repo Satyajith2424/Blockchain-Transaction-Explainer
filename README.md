@@ -27,28 +27,7 @@ Frontend: HTML, Tailwind CSS, JavaScript
 APIs: Etherscan API, Scaledown API (optional)
 Tools: Git, GitHub
 
-Project Structure
 
-blockchain_transaction_explainer/
-├── run.py
-├── backend/
-│ ├── app.py
-│ ├── config.py
-│ ├── routes/
-│ │ └── explain.py
-│ └── services/
-│ ├── etherscan.py
-│ ├── explanation.py
-│ └── scaledown.py
-├── frontend/
-│ ├── templates/
-│ │ └── index.html
-│ └── static/
-│ ├── css/
-│ │ └── style.css
-│ └── js/
-│ └── main.js
-└── README.md
 
 Setup Instructions
 
